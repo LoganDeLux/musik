@@ -1,0 +1,1 @@
+[null,{"name":"help","permissions":"NONE","restriction":"1","actions":[{"channel":"0","varName":"","message":"___***Wszystkie Moje Komendy!***___\n\n!help - wyświetla wszyskie komendy","storage":"0","varName2":"","name":"Send Message"}]},{"name":"play","permissions":"NONE","restriction":"1","actions":[]}]
